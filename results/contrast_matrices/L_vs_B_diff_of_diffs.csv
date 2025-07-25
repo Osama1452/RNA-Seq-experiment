@@ -1,0 +1,7 @@
+"","L.LvsP_vs_B.LvsP","L.LvsP_vs_B.PvsV","L.LvsP_vs_B.LvsV","L.PvsV_vs_B.LvsP","L.PvsV_vs_B.PvsV","L.PvsV_vs_B.LvsV","L.LvsV_vs_B.LvsP","L.LvsV_vs_B.PvsV","L.LvsV_vs_B.LvsV"
+"B.lactating",-1,0,-1,-1,0,-1,-1,0,-1
+"B.pregnant",1,-1,0,1,-1,0,1,-1,0
+"B.virgin",0,1,1,0,1,1,0,1,1
+"L.lactating",1,1,1,0,0,0,1,1,1
+"L.pregnant",-1,-1,-1,1,1,1,0,0,0
+"L.virgin",0,0,0,-1,-1,-1,-1,-1,-1

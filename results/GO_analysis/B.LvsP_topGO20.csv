@@ -1,0 +1,21 @@
+"Term","Ont","N","Up","Down","P.Up","P.Down"
+"mitotic sister chromatid segregation","BP",182,1,52,0.99192847456512,8.48718388472622e-28
+"nuclear division","BP",388,7,74,0.881207519454386,8.77433368282953e-27
+"chromosome segregation","BP",392,3,74,0.998006206571384,1.72203562528313e-26
+"mitotic cell cycle process","BP",714,8,102,0.998467426585441,4.94543333295583e-26
+"mitotic nuclear division","BP",261,2,59,0.992089142776499,1.68053345380515e-25
+"sister chromatid segregation","BP",219,1,54,0.996991167281332,2.2480820834671e-25
+"nuclear chromosome segregation","BP",286,2,61,0.995605485959504,6.78040688804295e-25
+"cell cycle process","BP",1179,18,134,0.996211775381111,2.49010277687563e-24
+"organelle fission","BP",445,11,74,0.610041559331161,5.73626000884407e-23
+"mitotic cell cycle","BP",830,9,105,0.999468603181072,1.56815955369056e-22
+"chromosome organization","BP",496,6,74,0.990082477215622,4.21435421659144e-20
+"cell cycle","BP",1478,20,142,0.999787624579805,7.4535907991376e-19
+"metaphase chromosome alignment","BP",97,0,31,1,1.25790904593387e-18
+"attachment of spindle microtubules to kinetochore","BP",49,0,23,1,1.48674869157652e-18
+"spindle checkpoint signaling","BP",53,0,23,1,1.33905063272564e-17
+"mitotic spindle checkpoint signaling","BP",49,0,22,1,2.77721810363459e-17
+"establishment of chromosome localization","BP",107,0,31,1,3.01908513882834e-17
+"cell division","BP",584,5,76,0.999430516149335,3.97732569943313e-17
+"chromosome separation","BP",81,0,27,1,6.38925501287679e-17
+"negative regulation of chromosome segregation","BP",52,0,22,1,1.33000218053961e-16
